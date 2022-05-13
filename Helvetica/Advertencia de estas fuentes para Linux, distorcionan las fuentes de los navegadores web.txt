@@ -1,0 +1,3 @@
+
+
+Instalé estas fuentes provicionalmente en Linux porque necesitaba abrir un diseño grafico hecho en Windows que las usaba, pero después las desinstalé porque hacen que los navegadores web disrtorcionen sus fuentes tipográficas 
