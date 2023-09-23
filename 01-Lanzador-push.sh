@@ -1,5 +1,5 @@
 #!/bin/bash
 
-konsole -e "./02-autosave-script.sh" &
+gnome-terminal -e "./02-autosave-script.sh" &
 
 
